@@ -1,0 +1,14 @@
+name: pixye
+description: A Flutter mobile application.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add your dependencies here
+
+flutter:
+  uses-material-design: true
